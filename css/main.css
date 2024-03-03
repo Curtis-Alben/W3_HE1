@@ -6,7 +6,7 @@ body {
 .topNav{
 
     overflow: hidden;
-    background-color:#333 ;
+    background-color:#333;
 
 }
 
@@ -34,4 +34,33 @@ body {
 .topNav a.active {
     background-color: #04AA6D;
     color: white;
+}
+
+header img {
+
+  width:50%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2em;
+}
+
+p{
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;   
+font-size: 16px;
+color: #04AA6D;
+text-align: justify;
+}
+
+h1{
+text-align: center; 
+text-transform: uppercase;
+letter-spacing: 16px;
+}
+
+.text{
+    padding-left: 2em;
+    padding-right: 2em;
+
 }
