@@ -110,4 +110,20 @@ letter-spacing: 16px;
       left: 50%;
       transform: translate(-50%, -50%);
     }
+
+ #filters{
+
+
+filter: grayscale(100%);
+/*filter: sepia(100%);*/
+/*filter:blur(4px);*/
+
+}
+
+#filters :hover{
+  filter: none;
+}
+
+
+   
   
